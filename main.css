@@ -1,2 +1,4 @@
 @charset "UTF-8";
-body{max-width:40em;padding:1em;line-height:1.5;}
+body{max-width:40em;margin:auto;padding:1em;line-height:1.5;}
+header{border-bottom:2px solid black;}
+footer{margin-top:3em;border-bottom:2px solid black;}
